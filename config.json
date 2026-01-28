@@ -1,1 +1,8 @@
-
+{
+    "_comment": "This bot ONLY uses 2Captcha API - Get your keys from https://2captcha.com",
+    "captcha": {
+        "api_key_1": ""
+    },
+    "referral_code": "aS2sSqBp",
+    "turnstile_sitekey": "0x4AAAAAACHUNmLd4bE8xwKK"
+}
